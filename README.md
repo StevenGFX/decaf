@@ -7,15 +7,15 @@ Current Requirements:
  - Pip3
 
 Install(instructions in progress): 
- - sudo pip3 install Flask
- - sudo pip3 install Flask-RESTful
- - sudo pip3 install Flask-MySQL
- - mkdir /var/mugsy 
- - cd /var/mugsy
- - git clone https://github.com/margyle/decaf.git
- - import db/mugsy.sql into your mysql instance
- - cd decaf
- - touch decafConfig.py 
+ - `sudo pip3 install Flask`
+ - `sudo pip3 install Flask-RESTful`
+ - `sudo pip3 install Flask-MySQL`
+ - `mkdir /var/mugsy` 
+ - `cd /var/mugsy`
+ - `git clone https://github.com/margyle/decaf.git`
+ - `import db/mugsy.sql into your mysql instance`
+ - `cd decaf`
+ - `touch decafConfig.py`
  - Edit decafConfig.py and add:
    
 ```
